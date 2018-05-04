@@ -2,8 +2,8 @@
 //  helper_functions.cpp
 //  hotel_guest_tracking_system
 //
-//  Created by vector on 04/05/2018.
-//  Copyright © 2018 vector. All rights reserved.
+//  Created by Krzysztof Wasik on 04/05/2018.
+//  Copyright © 2018 Krzysztof Wasik. All rights reserved.
 //
 
 #include "helper_functions.hpp"
